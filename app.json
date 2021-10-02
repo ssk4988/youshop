@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "YouShop",
+    "description": "A comparison shopping app for BestBuy, eBay, and Etsy.",
+    "slug": "snack-HkPGrXyLN",
+    "privacy": "unlisted",
+    "sdkVersion": "32.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#0b8e25",
+    "icon": "/assets/youshop.jpg",
+    "splash": {
+      "image": "/assets/youshop.jpg",
+      "backgroundColor": "#000000"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+	"android": {
+		"package": "com.youshop.app",
+		"versionCode": 1,
+		"icon": "/assets/youshop.jpg"
+	}
+  }
+}

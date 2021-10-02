@@ -1,0 +1,17 @@
+{
+  "name": "tsa-software-development",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "crypto-js": "3.1.9-1",
+    "firebase": "5.7.2",
+    "querystring": "0.2.0",
+    "react-navigation": "3.0.9"
+  }
+}
